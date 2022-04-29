@@ -1,3 +1,6 @@
 pirates
 godfather
 avengers
+chicken
+shawarma
+kebab
