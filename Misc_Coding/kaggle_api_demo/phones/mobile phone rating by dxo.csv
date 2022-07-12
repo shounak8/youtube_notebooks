@@ -1,0 +1,224 @@
+model,price,launch,camera,selfie,audio,display,battery
+Huawei P50 Pro,$907,Jul 2021,144.0,106.0,,93.0,
+Xiaomi Mi 11 Ultra,$1200,Mar 2021,143.0,94.0,71.0,87.0,69.0
+Huawei Mate 40 Pro+,$1363,Oct 2020,139.0,,,,
+Apple iPhone 13 Pro Max,$1099,Sep 2021,137.0,99.0,75.0,99.0,89.0
+Apple iPhone 13 Pro,$999,Sep 2021,137.0,99.0,75.0,98.0,76.0
+Huawei Mate 40 Pro,$1199,Oct 2020,136.0,104.0,,,
+Google Pixel 6 Pro,$899,Oct 2021,135.0,102.0,71.0,90.0,
+Vivo X70 Pro+,$833,Sep 2021,135.0,,66.0,91.0,
+Asus Smartphone for Snapdragon Insiders,$1499,Jul 2021,133.0,,77.0,,
+Xiaomi Mi 10 Ultra,$803,Aug 2020,133.0,88.0,,73.0,
+Google Pixel 6,$599,Oct 2021,132.0,97.0,71.0,87.0,
+Huawei P40 Pro,$1099,Mar 2020,132.0,103.0,59.0,85.0,
+Oppo Find X3 Pro,$1149,Mar 2021,131.0,,62.0,88.0,66.0
+Vivo X70 Pro (MediaTek),$651,Sep 2021,131.0,,51.0,,
+Vivo X50 Pro+,$757,Jun 2020,131.0,,,,
+Apple iPhone 13,$799,Sep 2021,130.0,99.0,75.0,93.0,74.0
+Apple iPhone 13 mini,$699,Sep 2021,130.0,99.0,75.0,90.0,62.0
+Apple iPhone 12 Pro Max,$1099,Oct 2020,130.0,98.0,74.0,88.0,78.0
+Apple iPhone 12 Pro,$999,Oct 2020,128.0,98.0,,87.0,
+Vivo X60 Pro+,$757,Dec 2020,128.0,,51.0,89.0,
+Xiaomi Mi 10 Pro,$999,Feb 2020,128.0,83.0,76.0,,
+Oppo Find X2 Pro,$1199,May 2020,126.0,72.0,74.0,76.0,
+Samsung Galaxy S20 Ultra 5G (Exynos),$1359,Feb 2020,126.0,100.0,69.0,87.0,
+Honor 30 Pro+,$757,Apr 2020,125.0,,,,
+Apple iPhone 11 Pro Max,$1099,Sep 2019,124.0,92.0,71.0,84.0,
+OnePlus 9 Pro,$969,Mar 2021,124.0,,69.0,89.0,65.0
+Samsung Galaxy Z Fold3 5G,$1799,Aug 2021,124.0,,72.0,89.0,
+Huawei Mate 30 Pro 5G,$1045,Sep 2019,123.0,84.0,61.0,,
+Samsung Galaxy S21 Ultra 5G (Snapdragon),$1199,Jan 2021,123.0,99.0,70.0,91.0,70.0
+Apple iPhone 12 mini,$699,Oct 2020,122.0,98.0,73.0,,59.0
+Apple iPhone 12,$799,Oct 2020,122.0,98.0,73.0,85.0,
+Honor V30 Pro,$590,Nov 2019,122.0,76.0,59.0,,
+Huawei Mate 30 Pro,$1099,Sep 2019,121.0,93.0,60.0,,
+Oppo Reno6 Pro 5G,$799,Sep 2021,121.0,,62.0,86.0,85.0
+Oppo Reno6 Pro+,$606,May 2021,121.0,,,,
+Samsung Galaxy S21 Ultra 5G (Exynos),$1259,Jan 2021,121.0,100.0,70.0,91.0,57.0
+Xiaomi Mi CC9 Pro Premium Edition,$530,Nov 2019,121.0,77.0,54.0,,
+Asus Zenfone 8,$629,May 2021,120.0,,66.0,81.0,64.0
+Google Pixel 5,$699,Oct 2020,120.0,94.0,68.0,74.0,58.0
+Samsung Galaxy S21 FE 5G (Snapdragon),$699,Jan 2022,120.0,,70.0,90.0,
+Samsung Galaxy Note20 (Exynos),$959,Aug 2020,120.0,100.0,,,
+Samsung Galaxy Note20 Ultra 5G (Exynos),$1309,Aug 2020,120.0,100.0,68.0,89.0,
+Vivo X60 Pro 5G (Snapdragon),$799,Mar 2021,120.0,91.0,47.0,,86.0
+Xiaomi Mi 11,$799,Dec 2020,120.0,85.0,68.0,87.0,49.0
+Xiaomi Redmi K30 Pro Zoom Edition,$575,Mar 2020,120.0,,,,
+Apple iPhone 11,$699,Sep 2019,119.0,91.0,71.0,,
+Samsung Galaxy S21+ 5G (Snapdragon),$999,Jan 2021,119.0,,,,
+Samsung Galaxy S21 5G (Snapdragon),$799,Jan 2021,119.0,,70.0,,69.0
+Asus Zenfone 8 Flip,$799,May 2021,118.0,,,,63.0
+OnePlus 8 Pro,$899,Apr 2020,118.0,93.0,67.0,88.0,
+Samsung Galaxy S20+ (Exynos),$1009,Feb 2020,118.0,,66.0,,
+Vivo X60 Pro 5G (Exynos),$799,Mar 2021,118.0,,,,
+Xiaomi Mi 10T Pro 5G,$599,Oct 2020,118.0,88.0,,72.0,72.0
+Motorola Edge+,$999,Apr 2020,117.0,,66.0,,
+Samsung Galaxy Note20 Ultra 5G (Snapdragon),$1299,Aug 2020,117.0,97.0,68.0,90.0,
+Samsung Galaxy Note 10+ (Exynos),$1109,Aug 2019,117.0,,66.0,,
+TCL 20 Pro 5G,$549,Apr 2021,117.0,,,89.0,
+Xiaomi 11T Pro,$699,Sep 2021,117.0,91.0,71.0,87.0,81.0
+Huawei P30 Pro,$999,Mar 2019,116.0,89.0,,,
+OnePlus Nord 2 5G,$399,Jul 2021,116.0,,,,
+Samsung Galaxy S21 5G (Exynos),$859,Jan 2021,116.0,98.0,70.0,,63.0
+Samsung Galaxy S21+ 5G (Exynos),$1059,Jan 2021,116.0,,,,
+Samsung Galaxy Note 10+ 5G (Exynos),$1199,Aug 2019,116.0,99.0,66.0,,
+Samsung Galaxy S10 5G (Exynos),$1199,Feb 2019,116.0,97.0,,,
+Asus ZenFone 7 Pro,$799,Dec 2020,115.0,101.0,,,
+OnePlus 9,$729,Mar 2021,115.0,,66.0,88.0,77.0
+Oppo Find X3 Neo,$799,Mar 2021,115.0,,61.0,85.0,81.0
+Oppo Reno 10x Zoom,$799,Jun 2019,115.0,,,,
+Samsung Galaxy S20 FE (Exynos),$659,Sep 2020,115.0,,,,
+Sony Xperia 1 III,$1299,Apr 2021,115.0,,66.0,86.0,
+OnePlus 7T Pro,$759,Oct 2019,114.0,,,,
+OnePlus 7 Pro,$669,May 2019,114.0,86.0,65.0,,
+Vivo X51 5G,$799,Oct 2020,114.0,81.0,53.0,87.0,60.0
+Google Pixel 4,$799,Oct 2019,113.0,92.0,68.0,,
+Honor 20 Pro,$599,May 2019,113.0,85.0,53.0,,
+Samsung Galaxy S10+ (Exynos),$1009,Feb 2019,113.0,96.0,65.0,,
+Huawei P40,$799,Mar 2020,112.0,,,,
+Huawei Mate 20 Pro,$999,Dec 2018,112.0,75.0,,,
+Oppo Reno5 Pro+ 5G,$605,Jan 2021,112.0,,59.0,83.0,
+Samsung Galaxy Note20 (Snapdragon),$999,Aug 2020,112.0,,,,
+Sony Xperia 1 II,$1199,Feb 2020,112.0,,57.0,,
+Google Pixel 4a,$349,Aug 2020,111.0,,,,
+Huawei Mate 20 X,$899,Oct 2018,111.0,,75.0,,
+OnePlus 8T,$599,Oct 2020,111.0,82.0,,89.0,71.0
+Sony Xperia 5 II,$949,Sep 2020,111.0,,,78.0,
+Xiaomi Mi 11i,$699,Mar 2021,111.0,,66.0,83.0,
+Xiaomi Mi 11 Lite 5G,$399,Mar 2021,111.0,,,,67.0
+LG Wing,$999,Sep 2020,110.0,,,88.0,
+Xiaomi Mi 9,$469,Feb 2019,110.0,,,,
+Huawei P20 Pro,$899,Mar 2018,109.0,72.0,,,
+Samsung Galaxy Z Fold2 5G,$1999,Aug 2020,109.0,,66.0,,
+OnePlus Nord,$399,Jul 2020,108.0,,,,
+Oppo A94 5G,$359,Apr 2021,108.0,,,,82.0
+Oppo Reno4 Pro 5G,$799,Jun 2020,108.0,,61.0,,
+Xiaomi 11T,$499,Sep 2021,108.0,88.0,70.0,89.0,89.0
+Xiaomi Redmi K40 Pro+,$560,Feb 2021,108.0,,66.0,,
+Oppo Reno6 5G,$499,May 2021,107.0,80.0,58.0,80.0,96.0
+ZTE Axon 30 Ultra,$749,Apr 2021,107.0,,63.0,78.0,
+Apple iPhone XS Max,$1099,Sep 2018,106.0,82.0,74.0,,
+Realme GT Neo 2 5G,$469,Sep 2021,106.0,,60.0,81.0,94.0
+Xiaomi Redmi Note 10 Pro,$279,Mar 2021,106.0,,,,84.0
+Motorola Edge 20 Pro,$699,Jul 2021,105.0,,55.0,80.0,76.0
+Oppo Find X3 Lite,$449,Mar 2021,105.0,,53.0,79.0,68.0
+Oppo Reno4 5G,$549,Oct 2020,105.0,,,,
+Oppo Find X2 Neo,$699,May 2020,105.0,,,,
+Realme GT Neo,$273,Mar 2021,105.0,,,,
+Samsung Galaxy A72,$449,Mar 2021,105.0,,,,85.0
+Samsung Galaxy Z Flip,$1380,Feb 2020,105.0,83.0,,,
+Vivo V21 5G,$419,Apr 2021,105.0,,,,
+Asus ZenFone 6,$499,May 2019,104.0,98.0,,,
+Apple iPhone SE (2020),$399,Apr 2020,103.0,84.0,70.0,,
+HTC U12+,$799,May 2018,103.0,,,,
+POCO X3 NFC,$229,Sep 2020,103.0,,63.0,,
+Realme 8 Pro,$299,Mar 2021,103.0,,,,
+Samsung Galaxy Note 9,$1009,Aug 2018,103.0,92.0,,,
+Xiaomi Mi MIX 3,$599,Oct 2018,103.0,84.0,,,
+Google Pixel 3,$799,Oct 2018,102.0,92.0,,,
+OnePlus Nord CE 5G,$299,Jun 2021,102.0,,,,89.0
+Samsung Galaxy A52 5G,$499,Mar 2021,102.0,,69.0,79.0,67.0
+Xiaomi Redmi K20 Pro,$379,May 2019,102.0,,,,
+Apple iPhone XR,$749,Sep 2018,101.0,,,,
+Google Pixel 3a,$399,May 2019,101.0,,,,
+LG V60 ThinQ 5G,$799,Feb 2020,100.0,,65.0,,
+Oppo Reno5 Pro 5G,$515,Dec 2020,100.0,,,81.0,
+Samsung Galaxy S9+,$959,Mar 2018,100.0,81.0,,,
+Google Pixel 2,$649,Oct 2017,99.0,77.0,,,
+LG G8 ThinQ,$819,Feb 2019,99.0,,52.0,,
+Xiaomi Mi 8,$499,May 2018,99.0,,,,
+OnePlus 6T,$549,Oct 2018,98.0,,,,
+Xiaomi Mi 10T 5G,$499,Oct 2020,98.0,,,,
+Apple iPhone X,$999,Nov 2017,97.0,71.0,,,
+LG V40 ThinQ,$899,Oct 2018,97.0,,,,
+Lenovo Z6 Pro,$499,Sep 2019,97.0,75.0,,,
+OnePlus 6,$529,May 2018,96.0,,,,
+Asus ROG Phone 2,$899,Mar 2019,95.0,,69.0,,
+Realme X2 Pro,$399,Oct 2019,95.0,74.0,58.0,,
+Sony Xperia 5,$799,Sep 2019,95.0,79.0,,,
+Apple iPhone 8 Plus,$799,Sep 2017,94.0,,,,
+Samsung Galaxy Note 8,$1009,Aug 2017,94.0,,,,
+Vivo Y72 5G,$319,Mar 2021,94.0,,,,89.0
+Xiaomi Redmi Note 10S,$199,Mar 2021,92.0,,,,86.0
+Xiaomi Pocophone F1,$329,Aug 2018,91.0,,,,
+Asus ZenFone 5,$399,Aug 2018,90.0,,,,
+General Mobile GM9 Pro,$400,Jan 2019,90.0,,,,
+Google Pixel,$649,Oct 2016,90.0,,,,
+HTC U11,$649,Jul 2017,90.0,,,,
+Samsung Galaxy A12,$179,Nov 2020,90.0,,,,
+Vivo X20 Plus,$530,Jan 2018,90.0,,,,
+Xiaomi Mi Note 3,$349,Sep 2017,90.0,,,,
+Samsung Galaxy A22 5G,$259,Jun 2021,89.0,,,,
+Samsung Galaxy S7 Edge,$799,Feb 2016,89.0,,,,
+Apple iPhone 7 Plus,$769,Sep 2016,88.0,,,,
+Samsung Galaxy A71 5G,$599,Apr 2020,88.0,,,,
+Samsung Galaxy A9,$599,Oct 2018,88.0,,,,
+Motorola One Zoom,$449,Sep 2019,87.0,,,,
+Samsung Galaxy A51 5G,$499,Apr 2020,87.0,,,,
+Sony Xperia 1,$999,Feb 2019,87.0,78.0,45.0,,
+Vsmart Live,$304,Jul 2019,87.0,,,,
+ZTE Axon 20 5G,$449,Sep 2020,87.0,26.0,,,
+Crosscall Trekker-X4,$699,Oct 2018,86.0,,,,
+Nokia 8.3 5G,$699,Mar 2020,86.0,,,55.0,
+LG G7 ThinQ,$749,May 2018,85.0,,,,
+Nokia 7.2,$349,Sep 2019,85.0,78.0,41.0,,
+Nokia 9 PureView,$699,Feb 2019,85.0,,,,
+Black Shark 2,$549,Mar 2019,84.0,,,,
+LG V30,$829,Aug 2017,84.0,,,,
+Samsung Galaxy A71,$479,Dec 2019,84.0,83.0,,,
+Xiaomi Redmi Note 8 Pro,$249,Sep 2019,84.0,,,,
+Motorola Moto Z2 Force,$720,Jul 2017,82.0,,,,
+Samsung Galaxy S6 Edge,$849,Mar 2015,82.0,,,,
+Motorola Moto G7 Plus,$329,Feb 2019,80.0,,,,
+Crosscall Core-X4,$449,Feb 2020,79.0,,,,
+Samsung Galaxy A50,$349,Feb 2019,76.0,,,,
+Apple iPhone 6,$649,Sep 2014,73.0,,,,
+Google Nexus 6P,$649,Sep 2015,73.0,,,,
+Meizu Pro 7 Plus,$550,Jul 2017,71.0,,,,
+Lava Z25,$154,Mar 2017,70.0,,,,
+Samsung Galaxy S5,$679,Apr 2014,70.0,,,,
+Motorola Moto G5S,$249,Aug 2017,69.0,,,,
+Apple iPhone 5s,$649,Sep 2013,68.0,,,,
+Nokia 8,$599,Oct 2017,68.0,,,,
+Wiko View 3 Pro,$249,May 2019,67.0,,,,
+Fairphone 3,$450,Sep 2019,66.0,,,,
+Altice S61,$159,Jun 2018,56.0,,,,
+Huawei nova 6 5G,$576,Dec 2019,,100.0,,,
+Samsung Galaxy S8,$809,Mar 2017,,73.0,,,
+Meitu T9,$515,Jun 2018,,69.0,,,
+Meitu V6,$772,Nov 2017,,59.0,,,
+Intex Aqua Selfie,$89,Jul 2017,,22.0,,,
+Black Shark 4S Pro,$727,Oct 2021,,,81.0,72.0,
+Honor Magic3 Pro +,$1212,Aug 2021,,,81.0,,
+Black Shark 4 Pro,$605,Mar 2021,,,81.0,72.0,
+Xiaomi Mi 10S,$499,Mar 2021,,,80.0,,
+Asus ROG Phone 5,$799,Mar 2021,,,79.0,82.0,
+Asus ROG Phone 3,$999,Aug 2020,,,75.0,70.0,
+Lenovo Legion Phone 2 Pro,$799,Apr 2021,,,71.0,53.0,
+Xiaomi Redmi K40 Gaming,$303,Apr 2021,,,68.0,,
+OnePlus 8,$699,Apr 2020,,,68.0,,
+Nubia RedMagic 6 Pro,$699,Apr 2021,,,64.0,77.0,81.0
+Nubia Red Magic 5S,$579,Jul 2020,,,64.0,,
+Lenovo Legion Phone Pro,$899,Jul 2020,,,59.0,,
+Realme GT 5G,$449,Mar 2021,,,57.0,84.0,74.0
+Motorola Razr,$1499,Nov 2020,,,57.0,,
+Black Shark 3 Pro,$899,Mar 2020,,,55.0,61.0,
+Black Shark 2 Pro,$599,Jul 2019,,,51.0,,
+Nubia Red Magic 3S,$479,Sep 2019,,,50.0,,
+TCL 10 Pro,$449,Jun 2020,,,,83.0,
+Microsoft Surface Duo,$1399,Aug 2020,,,,74.0,
+Fairphone 4,$579,Oct 2021,,,,69.0,
+Realme C21,$119,Mar 2021,,,,43.0,62.0
+Samsung Galaxy M51,$399,Aug 2020,,,,,88.0
+Xiaomi Redmi Note 10,$199,Mar 2021,,,,,87.0
+Oppo A74,$249,Apr 2021,,,,,86.0
+Wiko Power U30,$179,Apr 2021,,,,,86.0
+Oppo A74 5G,$299,Apr 2021,,,,,78.0
+Xiaomi Redmi Note 10 5G,$229,Mar 2021,,,,,78.0
+Oppo A54 5G,$259,Apr 2021,,,,,76.0
+Vivo Y20s,$199,Oct 2020,,,,,75.0
+Huawei P40 Lite,$279,Feb 2020,,,,,73.0
+Wiko Power U20,$159,Jan 2021,,,,,70.0
+Motorola Moto G9 Power,$229,Nov 2020,,,,,70.0
+Realme C11,$119,Jun 2020,,,,,61.0
+Xiaomi Redmi 9,$159,Jun 2020,,,,,54.0
